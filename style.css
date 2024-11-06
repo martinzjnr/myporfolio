@@ -217,18 +217,16 @@
 }
 .img9 {
     padding-top: 50px;
-    height: 400px;
-    width: 400px;
-    border-radius: 10cm;
+    height: 200px;
+    width: 200px;
+    border-radius: 9cm;
     padding-bottom: 50px;
 }
 
 .rr{
     text-align: end;
 }
-.imj{
-    height: 260px;
-}
+
 .pro{
     text-align: center;
 }
