@@ -235,7 +235,7 @@
 
 
 #xrt{
-    width: 400px;
+    width: 200px;
     border-radius: 5px;
 }
 .dcc{
@@ -260,6 +260,13 @@
 .wee{
     background-color: rgba(255, 204, 153, 0.5) ;
     border-radius: 5px;
-    padding: 40px;
+    /* padding: 40px; */
     box-shadow: 0 0 10px 10px rgb(255, 204, 153);
+}
+.tee{
+    text-align: center;
+}
+
+.topp{
+    padding-top: 200px;
 }
